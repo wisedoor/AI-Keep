@@ -1,2 +1,2 @@
 # AI-Keep
-Keep learning and polish AI learning
+Keep learning and Polish AI
